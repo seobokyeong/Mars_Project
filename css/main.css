@@ -468,7 +468,6 @@ section {
 .section_03 .cards .card:hover i {
   top: 50%;
 }
-
 .section_03 .cards .card img {
   transition: all 0.3s;
 }
